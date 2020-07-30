@@ -1,53 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Poetas",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Principais nomes da poesia",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "POESIA - O QUE É ? #Poeflix",
+          "url": "https://www.youtube.com/watch?v=IN7qwHxCIGA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Carlos Drummond de Andrade",
+          "url": "https://www.youtube.com/watch?v=CWagtQP7hqw"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Fernando Pessoa",
+          "url": "https://www.youtube.com/watch?v=WYOO8wnxobY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Luís de Camões",
+          "url": "https://www.youtube.com/watch?v=2y4UBmDy1jM"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "William Shakespeare",
+          "url": "https://www.youtube.com/watch?v=_tqo--QHA20"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Cora Coralina",
+          "url": "https://www.youtube.com/watch?v=LETrhLE4rM8"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Instrução para Poemas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Como escrever poesia ?",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -56,28 +48,28 @@
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "COMO ESCREVER POESIA | 5 DICAS PARA COMEÇAR A FAZER",
+          "url": "https://www.youtube.com/watch?v=OPPfjBgBmQg"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Como escrever um poema! || 5 dicas fundamentais",
+          "url": "https://www.youtube.com/watch?v=ORX3lfLiaqg"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Como escrever um poema? | Dicas fundamentais | Part 2",
+          "url": "https://www.youtube.com/watch?v=HM5gns8touc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "CONCEITOS BÁSICOS DO POEMA | PARA ESCREVER OU ESTUDAR POEMAS",
+          "url": "https://www.youtube.com/watch?v=Jvv4JyrM_nE"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Músicas Poéticas",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Principais trilhas sonoras",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -86,21 +78,21 @@
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Cazuza",
+          "url": "https://www.youtube.com/watch?v=leXj0_QLEYs"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Engenheiros do Hawaii",
+          "url": "https://www.youtube.com/watch?v=NNuSbbkUU7I"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Chico Buarque",
+          "url": "https://www.youtube.com/watch?v=Nyg_NnW_vHs"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Cenas de filmes poéticas",
       "cor": "orange",
       "videos": [
         {
@@ -108,16 +100,16 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Gênio Indomável - A Melhor Cena do Filme",
+          "url": "https://www.youtube.com/watch?v=LowuyZ3_B84"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "A Perseguição - Poema citado no final do filme",
+          "url": "https://www.youtube.com/watch?v=_ln-M-kMJOU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "MEU MESTRE, MINHA VIDA",
+          "url": "https://www.youtube.com/watch?v=YHU_QdXg2mk"
         }
       ]
     },
