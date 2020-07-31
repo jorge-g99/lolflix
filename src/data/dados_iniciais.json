@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Poetas",
+      "titulo": "Ligas",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Principais nomes da poesia",
+        "text": "Principais Campeonatos do mundo",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "POESIA - O QUE É ? #Poeflix",
-          "url": "https://www.youtube.com/watch?v=IN7qwHxCIGA"
+          "titulo": "NEW PATCH PREVIEW: Upcoming Changes List for Patch 10.16",
+          "url": "https://www.youtube.com/watch?v=tqOyIC1nNOY"
         },
         {
-          "titulo": "Carlos Drummond de Andrade",
-          "url": "https://www.youtube.com/watch?v=CWagtQP7hqw"
+          "titulo": "LCK",
+          "url": "https://www.youtube.com/watch?v=GyB972Iw7Vg"
         },
         {
-          "titulo": "Fernando Pessoa",
-          "url": "https://www.youtube.com/watch?v=WYOO8wnxobY"
+          "titulo": "LEC",
+          "url": "https://www.youtube.com/watch?v=vQ080P-H0Y4"
         },
         {
-          "titulo": "Luís de Camões",
-          "url": "https://www.youtube.com/watch?v=2y4UBmDy1jM"
+          "titulo": "LCS",
+          "url": "https://www.youtube.com/watch?v=G7wXu_ekHv8"
         },
         {
-          "titulo": "William Shakespeare",
-          "url": "https://www.youtube.com/watch?v=_tqo--QHA20"
+          "titulo": "CBLOL",
+          "url": "https://www.youtube.com/watch?v=qbMTpwgpZ0E"
         },
         {
-          "titulo": "Cora Coralina",
-          "url": "https://www.youtube.com/watch?v=LETrhLE4rM8"
+          "titulo": "LPL",
+          "url": "https://www.youtube.com/watch?v=zqn8LubaU3k"
         }        
       ]
     },
     {
-      "titulo": "Instrução para Poemas",
+      "titulo": "Campeões",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Como escrever poesia ?",
+        "text": "Como jogar com... ?",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -48,28 +48,28 @@
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
-          "titulo": "COMO ESCREVER POESIA | 5 DICAS PARA COMEÇAR A FAZER",
-          "url": "https://www.youtube.com/watch?v=OPPfjBgBmQg"
+          "titulo": "Katarina",
+          "url": "https://www.youtube.com/watch?v=i8aoPs4RJRg"
         },
         {
-          "titulo": "Como escrever um poema! || 5 dicas fundamentais",
-          "url": "https://www.youtube.com/watch?v=ORX3lfLiaqg"
+          "titulo": "Yuumi",
+          "url": "https://www.youtube.com/watch?v=CAo7U5_lKEQ"
         },
         {
-          "titulo": "Como escrever um poema? | Dicas fundamentais | Part 2",
-          "url": "https://www.youtube.com/watch?v=HM5gns8touc"
+          "titulo": "Darius",
+          "url": "https://www.youtube.com/watch?v=cuCbV1K40Us"
         }, 
         {
-          "titulo": "CONCEITOS BÁSICOS DO POEMA | PARA ESCREVER OU ESTUDAR POEMAS",
-          "url": "https://www.youtube.com/watch?v=Jvv4JyrM_nE"
+          "titulo": "Rakan",
+          "url": "https://www.youtube.com/watch?v=oGHi8KgDc7g"
         }
       ]
     },
     {
-      "titulo": "Músicas Poéticas",
+      "titulo": "Bronziocre",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Principais trilhas sonoras",
+        "text": "Zoeira do Cenário BR",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -78,21 +78,21 @@
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "Cazuza",
-          "url": "https://www.youtube.com/watch?v=leXj0_QLEYs"
+          "titulo": "RANGER SUSPENSO E ANUNCIO DO BRTT",
+          "url": "https://www.youtube.com/watch?v=POodZdkCusc"
         },
         {
-          "titulo": "Engenheiros do Hawaii",
-          "url": "https://www.youtube.com/watch?v=NNuSbbkUU7I"
+          "titulo": "BVOY FARPANDO BRTT E NOCTURNE DO RANGER",
+          "url": "https://www.youtube.com/watch?v=izDXy9Eqblc"
         },
         {
-          "titulo": "Chico Buarque",
-          "url": "https://www.youtube.com/watch?v=Nyg_NnW_vHs"
+          "titulo": "BRONZES DESCOBRIRAM UMA TÁTICA COM 5 TELEPORTES",
+          "url": "https://www.youtube.com/watch?v=Z2ryk7X4B4w"
         }
       ]
     },
     {
-      "titulo": "Cenas de filmes poéticas",
+      "titulo": "Entrevistas",
       "cor": "orange",
       "videos": [
         {
@@ -100,24 +100,24 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gênio Indomável - A Melhor Cena do Filme",
-          "url": "https://www.youtube.com/watch?v=LowuyZ3_B84"
+          "titulo": "O FUTURO DE KAMI EM 2020",
+          "url": "https://www.youtube.com/watch?v=xzQIWopOpEk"
         },
         {
-          "titulo": "A Perseguição - Poema citado no final do filme",
-          "url": "https://www.youtube.com/watch?v=_ln-M-kMJOU"
+          "titulo": "Faker",
+          "url": "https://www.youtube.com/watch?v=84DdsO0fCHQ"
         },
         {
-          "titulo": "MEU MESTRE, MINHA VIDA",
-          "url": "https://www.youtube.com/watch?v=YHU_QdXg2mk"
+          "titulo": "Faker conhece Doublelift",
+          "url": "https://www.youtube.com/watch?v=VvKGhQ4zOXU"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Riot Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Novidades",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -126,28 +126,28 @@
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Spirit Blossom Ahri",
+          "url": "https://www.youtube.com/watch?v=n526EFcWxC8"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Kin of the Stained Blade",
+          "url": "https://www.youtube.com/watch?v=D4L0OkSrsI8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Lillia, The Bashful Bloom: Champion Theme",
+          "url": "https://www.youtube.com/watch?v=fXv9HUFXszI"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "The Path, An Ionian Myth",
+          "url": "https://www.youtube.com/watch?v=u9fFG4ZLp9Y"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "TFT",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Táticas principais",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
@@ -156,20 +156,20 @@
           "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "TFT - AS MELHORES COMPS DO PATCH 10.15!",
+          "url": "https://www.youtube.com/watch?v=xzSokWPHgvc"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "OLHA O QUE ESSA JINX 3 FEZ",
+          "url": "https://www.youtube.com/watch?v=AfXZuzULxdU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "TFT - ESQUEMA PARA APRENDER A JOGAR TFT",
+          "url": "https://www.youtube.com/watch?v=qRPyoqhh6f0"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "HILARIOUS NEW COMP: BBQ RUMBLE! | TFT",
+          "url": "https://www.youtube.com/watch?v=qZxJmwF3d-U"
         }
       ]
     }

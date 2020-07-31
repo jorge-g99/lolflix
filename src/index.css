@@ -4,8 +4,8 @@
 }
 
 :root {
-  --primary: #0E1E75;
-  --black: #000000;
+  --primary: #212EC2;
+  --black: #0e0c0c;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
@@ -22,4 +22,10 @@ body {
 
 a {
   color: inherit;
-} 
+}
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
