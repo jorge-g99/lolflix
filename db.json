@@ -1,17 +1,236 @@
 {
-    "categorias": [
-        { 
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria saca",
-            "cor": "#6bd1ff"
-        },
-        { 
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Outra categoria saca",
-            "cor": "#6bd1ff"
-        }
-
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Ligas",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Principais Campeonatos do mundo",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Campeões",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Como jogar com... ?",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Bronziocre",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Zoeira do Cenário BR",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Entrevistas",
+      "cor": "#orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Riot Games",
+      "cor": "#red",
+      "link_extra": {
+        "text": "Novidades",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "TFT",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Táticas principais",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "NEW PATCH PREVIEW: Upcoming Changes List for Patch 10.16",
+      "url": "https://www.youtube.com/watch?v=tqOyIC1nNOY"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "LCS",
+      "url": "https://www.youtube.com/watch?v=Y46_cVFlokE"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "LCK",
+      "url": "https://www.youtube.com/watch?v=GyB972Iw7Vg"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "LEC",
+      "url": "https://www.youtube.com/watch?v=vQ080P-H0Y4"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "LCS",
+      "url": "https://www.youtube.com/watch?v=G7wXu_ekHv8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "CBLOL",
+      "url": "https://www.youtube.com/watch?v=qbMTpwgpZ0E"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "LPL",
+      "url": "https://www.youtube.com/watch?v=zqn8LubaU3k"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Kayn",
+      "url": "https://www.youtube.com/watch?v=pSvtS2jVE5c"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Katarina",
+      "url": "https://www.youtube.com/watch?v=i8aoPs4RJRg"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Yuumi",
+      "url": "https://www.youtube.com/watch?v=CAo7U5_lKEQ"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Darius",
+      "url": "https://www.youtube.com/watch?v=cuCbV1K40Us"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Rakan",
+      "url": "https://www.youtube.com/watch?v=oGHi8KgDc7g"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "INTZ sabotada e Luskka JG",
+      "url": "https://www.youtube.com/watch?v=rWN47Gq-jWA"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "RANGER SUSPENSO E ANUNCIO DO BRTT",
+      "url": "https://www.youtube.com/watch?v=POodZdkCusc"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "BVOY FARPANDO BRTT E NOCTURNE DO RANGER",
+      "url": "https://www.youtube.com/watch?v=izDXy9Eqblc"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "BRONZES DESCOBRIRAM UMA TÁTICA COM 5 TELEPORTES",
+      "url": "https://www.youtube.com/watch?v=Z2ryk7X4B4w"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Entrevista com a Kaboom 2014",
+      "url": "https://www.youtube.com/watch?v=b2rIJNH9akU"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "O FUTURO DE KAMI EM 2020",
+      "url": "https://www.youtube.com/watch?v=xzQIWopOpEk"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Faker",
+      "url": "https://www.youtube.com/watch?v=84DdsO0fCHQ"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Faker conhece Doublelift",
+      "url": "https://www.youtube.com/watch?v=VvKGhQ4zOXU"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Lillia Champion Spotlight",
+      "url": "https://www.youtube.com/watch?v=lJqGoqNXuGo"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Spirit Blossom Ahri",
+      "url": "https://www.youtube.com/watch?v=n526EFcWxC8"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Kin of the Stained Blade",
+      "url": "https://www.youtube.com/watch?v=D4L0OkSrsI8"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Lillia, The Bashful Bloom: Champion Theme",
+      "url": "https://www.youtube.com/watch?v=fXv9HUFXszI"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "The Path, An Ionian Myth",
+      "url": "https://www.youtube.com/watch?v=u9fFG4ZLp9Y"
+    },
+    {
+      "id": 26,
+      "categoriaId": 6,
+      "titulo": "6 battlecast Graves 3",
+      "url": "https://www.youtube.com/watch?v=UqmG_E1ldx0"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "TFT - AS MELHORES COMPS DO PATCH 10.15!",
+      "url": "https://www.youtube.com/watch?v=xzSokWPHgvc"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "OLHA O QUE ESSA JINX 3 FEZ",
+      "url": "https://www.youtube.com/watch?v=AfXZuzULxdU"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "TFT - ESQUEMA PARA APRENDER A JOGAR TFT",
+      "url": "https://www.youtube.com/watch?v=qRPyoqhh6f0"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "HILARIOUS NEW COMP: BBQ RUMBLE! | TFT",
+      "url": "https://www.youtube.com/watch?v=qZxJmwF3d-U"
+    }
+  ]
 }
